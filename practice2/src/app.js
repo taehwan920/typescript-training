@@ -18,8 +18,6 @@ class App {
       optionItem.attachTo(optionSelect.element);
     });
     container.addChild(optionSelect);
-    // ? 카운터 만들기
-    // ? 가격 달아보기
   };
 };
 
